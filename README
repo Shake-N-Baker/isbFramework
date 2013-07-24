@@ -1,0 +1,10 @@
+About:
+	isbFramework is an Actionscript 3 framework I created for convenient use while writing games for adobe flashplayer.
+	The files inside my framework all begin with isb (my initials) for convenience of distiguishing what is part of the
+	framework in imitation of the flixel framework's flx prefix. Many of the classes inside deal with blitting a technique
+	which allows for greater control of graphics in a game versus using the built in display list elements. The classes were
+	created by me while creating various games and have been refactored while the development of said games progressed.
+	I make no attempt to claim that the framework is bug free, only that when I have found a bug in my framework I have
+	worked to eliminate it.
+Author: Ian Baker
+Contact: ianbaker24@gmail.com
